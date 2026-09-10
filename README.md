@@ -235,3 +235,6 @@ This repository serves as the official landing page for SteamTool Library Manage
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of SteamTool Library Manager today!**
+
+---
+**Last updated:** 2026-09-10 03:33:47 UTC
