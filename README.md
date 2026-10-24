@@ -237,4 +237,4 @@ This repository serves as the official landing page for SteamTool Library Manage
 **Get the most recent version of SteamTool Library Manager today!**
 
 ---
-**Last updated:** 2026-10-23 21:53:32 UTC
+**Last updated:** 2026-10-24 00:20:29 UTC
